@@ -1,10 +1,16 @@
 <div align="center">
 
 # 👋 Hi, I'm Joseph Andrews  
-Software Engineering Student | Passionate about System Design, and Mission Critical Software Solutions  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR-LINK](https://ca.linkedin.com/in/joseph-andrews-6654771a3?trk=public_profile_browsemap)) 
-[![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail)](mailto:jandrewskenora@gmail.com)
+Software Engineering Student | Passionate about System Design, and Mission Critical Software Solutions \ 
 
+<div align="center">
+
+### 🤝 Connect with Me  
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://ca.linkedin.com/in/joseph-andrews-6654771a3?trk=public_profile_browsemap)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jandrewskenora@gmail.com)
+
+</div>
 </div>
 
 
