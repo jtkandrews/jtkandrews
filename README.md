@@ -1,13 +1,12 @@
 <div align="center">
 
 # 👋 Hi, I'm Joseph Andrews  
-🎓 Software Engineering Student | 💡 Passionate about System Design, UAS, and AI-driven Software  
+Software Engineering Student | Passionate about System Design, and Mission Critical Software Solutions  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR-LINK](https://ca.linkedin.com/in/joseph-andrews-6654771a3?trk=public_profile_browsemap)) 
+[![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail)](mailto:jandrewskenora@gmail.com)
 
 </div>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR-LINK](https://ca.linkedin.com/in/joseph-andrews-6654771a3?trk=public_profile_browsemap)) \
-[![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail)](mailto:jandrewskenora@gmail.com)
 
 
 ## 🧠 Tech Stack
@@ -24,8 +23,12 @@
 ![git](https://skillicons.dev/icons?i=git)
 ![linux](https://skillicons.dev/icons?i=linux)
 ![bash](https://skillicons.dev/icons?i=bash)
-![azure](https://skillicons.dev/icons?i=azure)
+![matlab](https://skillicons.dev/icons?i=matlab)
 ![c](https://skillicons.dev/icons?i=c)
 ![cpp](https://skillicons.dev/icons?i=cpp)
 ![cmake](https://skillicons.dev/icons?i=cmake)
 ![qt](https://skillicons.dev/icons?i=qt)
+![redhat](https://skillicons.dev/icons?i=redhat)
+![postman](https://skillicons.dev/icons?i=postman)
+
+## Featured Projects
