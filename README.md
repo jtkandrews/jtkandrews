@@ -1,6 +1,10 @@
-# Hi there, I'm Joseph Andrews 👋
+<div align="center">
 
-Senior Software Engineering Student
+# 👋 Hi, I'm Joseph Andrews  
+🎓 Software Engineering Student | 💡 Passionate about System Design, UAS, and AI-driven Software  
+
+</div>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR-LINK](https://ca.linkedin.com/in/joseph-andrews-6654771a3?trk=public_profile_browsemap)) \
 [![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail)](mailto:jandrewskenora@gmail.com)
