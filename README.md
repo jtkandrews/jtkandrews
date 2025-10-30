@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Joseph Andrews  
-Software Engineering Student | Passionate about System Design, and Mission Critical Software Solutions \ 
+Software Engineering Student | Passionate about System Design, and Mission Critical Software Solutions 
 
 <div align="center">
 
