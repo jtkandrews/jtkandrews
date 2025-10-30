@@ -22,7 +22,6 @@ Software Engineering Student | Passionate about System Design, and Mission Criti
 ![javascript](https://skillicons.dev/icons?i=js)
 ![html](https://skillicons.dev/icons?i=html)
 ![css](https://skillicons.dev/icons?i=css)
-![spring](https://skillicons.dev/icons?i=spring)
 ![svelte](https://skillicons.dev/icons?i=svelte)
 ![maven](https://skillicons.dev/icons?i=maven)
 ![docker](https://skillicons.dev/icons?i=docker)
