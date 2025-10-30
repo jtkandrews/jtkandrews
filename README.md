@@ -15,7 +15,7 @@ Software Engineering Student | Passionate about System Design, and Mission Criti
 
 
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
